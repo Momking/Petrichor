@@ -1,5 +1,4 @@
-# Petrichor
+# Website developmeny
 
-Petrichor is a Technofest of IIT Palakkad.
-This website is just created on the bassis of this event.
+This website is just created on the basis of some event.
 This is not the original website.
